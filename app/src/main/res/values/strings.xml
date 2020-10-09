@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Thread_isPrime</string>
+    <string name="button">判断是否为素数</string>
+    <string name="input">请填写一个数</string>
+</resources>
